@@ -1,3 +1,3 @@
-partner text
-Boot.dev
+partner list
+SalesInc
 TheStartup
